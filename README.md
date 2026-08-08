@@ -49,12 +49,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
-## 📈 GitHub Stats & Contribution Activity
-<h3 align="center">🌆 3D Contribution City View</h3>
+## 📈 GitHub Stats & Activity
+
+<h3 align="center">⚡ Activity Trend</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lakshay-kumar-1902/lakshay-kumar-1902/output/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshay-kumar-1902&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
+
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
@@ -63,15 +65,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshay-kumar-1902/lakshay-kumar-1902/output/github-contribution-grid-snake.svg">
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lakshay-kumar-1902/lakshay-kumar-1902/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshay-kumar-1902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay-kumar-1902&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshay-kumar-1902&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
