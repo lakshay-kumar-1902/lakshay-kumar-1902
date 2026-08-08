@@ -50,6 +50,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ## 📈 GitHub Stats & Contribution Activity
+<h3 align="center">🌆 3D Contribution City View</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lakshay-kumar-1902/lakshay-kumar-1902/output/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+</p>
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
