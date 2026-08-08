@@ -50,6 +50,15 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%">
 
 ## 📈 GitHub Stats & Contribution Activity
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshay-kumar-1902/lakshay-kumar-1902/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshay-kumar-1902/lakshay-kumar-1902/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/lakshay-kumar-1902/lakshay-kumar-1902/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lakshay-kumar-1902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
